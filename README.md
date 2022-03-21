@@ -39,7 +39,7 @@ Assumptions
 
 SAMPLE INPUT-OUTPUT 1
 
-INPUT:
+INPUT: <br />
 LOAN IDIDI Dale 10000 5 4 <br />
 LOAN MBI Harry 2000 2 2 <br />
 BALANCE IDIDI Dale 5 <br />
@@ -47,15 +47,15 @@ BALANCE IDIDI Dale 40 <br />
 BALANCE MBI Harry 12 <br />
 BALANCE MBI Harry 0 <br />
 
-OUTPUT:
+OUTPUT: <br />
 IDIDI Dale 1000 55 <br />
 IDIDI Dale 8000 20 <br />
 MBI Harry 1044 12 <br />
 MBI Harry 0 24 <br />
 
-SAMPLE INPUT-OUTPUT 2
+SAMPLE INPUT-OUTPUT 2 <br />
 
-INPUT:
+INPUT: <br />
 LOAN IDIDI Dale 5000 1 6 <br />
 LOAN MBI Harry 10000 3 7 <br />
 LOAN UON Shelly 15000 2 9 <br />
@@ -67,7 +67,7 @@ BALANCE IDIDI Dale 6 <br />
 BALANCE UON Shelly 12 <br />
 BALANCE MBI Harry 12 <br />
 
-OUTPUT:
+OUTPUT: <br />
 IDIDI Dale 1326 9 <br />
 IDIDI Dale 3652 4 <br />
 UON Shelly 15856 3 <br />
